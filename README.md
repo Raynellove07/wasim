@@ -1,1 +1,49 @@
-# wasim
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!--boxicons
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>-->
+    <LINk rel="stylesheet" href="home.css"></LINk>
+</head>
+<body>
+   <header class="header">
+        <a href="#" class="logo">PCC</a>
+
+        <i class='bx bx-menu' id="menu-icon"></i>
+
+        <nav class="navbar">
+            <a href="#"class="active">HOME</a>
+            <a href="#">PROGRAM</a>
+            <a href="#">ROTC</a>
+            <a href="#">ALUMNI</a>
+            <a href="#">CONTACT</a>
+        </nav>
+   </header>
+
+   <section class="home" id="home">
+        <div class="home-content">
+            <h3>PAGADIAN CAPITOL COLLEGE INC.</h3>
+            <h1>ENJOY A TOP-NOTCH EDUCATION</h1>
+            <h3>TAKING THE LEAD IN PROVIDING <span>QUALITY EDUCATION</span> </h3>
+            <P>Type: Private College</p>
+            <p>Exam: Required</p>              
+            <p>Affiliation: Non-sectarian</p>  
+            <p>Structure: Semester</p>
+            <br>
+            <a href="#" class="btn">ENROLL NOW</a>
+        </div>
+         <div class="home-img">
+            <img src="home-model.png" alt="">
+         </div>
+   </section>
+   <section class="about" id="about">
+        <div class="about-img">
+            <img src="#" alt="">
+         </div>
+   </section>
+</body>
+</html>
